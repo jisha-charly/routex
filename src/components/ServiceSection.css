@@ -18,3 +18,9 @@
   .icon-bg{
     background-color: #83cd20;
   }
+  @media (max-width: 768px) {
+
+    .services-section{
+      margin-top: 20px;
+    }
+  }
