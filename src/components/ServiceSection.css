@@ -1,0 +1,20 @@
+.services-section {
+    background: linear-gradient(to right, #faf5f5 76%, transparent 100%), url(../service.png)  ;
+   
+    margin-top: 210px;
+    height:600px;
+    
+   
+  }
+  
+  .icon-circle {
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  .icon-bg{
+    background-color: #83cd20;
+  }
