@@ -5,6 +5,7 @@ import Navbar1 from './components/Navbar1';
 import HeroSection from './components/HeroSection';
 import AboutUs from './components/AboutUs';
 import ServicesSection from './components/ServiceSection';
+import Footer from './components/Footer';
 
 
 function App() {
@@ -14,6 +15,7 @@ function App() {
       <HeroSection/>
       <AboutUs/>
       <ServicesSection/>
+      <Footer/>
     </div>
   );
 }
